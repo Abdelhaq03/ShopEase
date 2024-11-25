@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14916266053",
+    "project_id": "apptfg-4788f",
+    "storage_bucket": "apptfg-4788f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14916266053:android:426345f69c758b4dd49b2c",
+        "android_client_info": {
+          "package_name": "com.example.apptfg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC0AXfaJrf1N9B1vFApRZGqp6EaSt-qTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
